@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include<iostream>
 
 int main()
 {
-  printf("Why Print...");
+  std::cout<<"Why Print...";
 }
