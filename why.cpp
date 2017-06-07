@@ -2,5 +2,5 @@
 
 int main()
 {
-  std::cout<<"Why Print...";
+  std::cout<<"Why Print..."<<std::endl;
 }
