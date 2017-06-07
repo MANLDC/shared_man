@@ -1,0 +1,13 @@
+diff --git a/why.cpp b/why.cpp
+index 527a844..01e1613 100644
+--- a/why.cpp
++++ b/why.cpp
+@@ -1,6 +1,6 @@
+-#include<iostream>
++#include<stdio.h>
+ 
+ int main()
+ {
+-  std::cout<<"Why Print...";
++  printf("Why Print...");
+ }
